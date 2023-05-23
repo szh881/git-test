@@ -1,0 +1,16 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>第三次
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/README.md b/README.md
+--- a/README.md	(revision 1cc94369c7194344de525e6bdc849bf1d4ee652d)
++++ b/README.md	(date 1684817943770)
+@@ -1,1 +1,2 @@
+-第三次
+\ No newline at end of file
++第三次
++在第三次上改动
+\ No newline at end of file
